@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767228593892",
+    "project_id": "speakup-edf29",
+    "storage_bucket": "speakup-edf29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767228593892:android:291cd2aa91f9714e4a8ef1",
+        "android_client_info": {
+          "package_name": "com.example.speakup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY38bcL1lZrnl2uskOqZzCiUVEx_yeZfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
